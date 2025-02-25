@@ -1,4 +1,7 @@
 ---
-layout: page
+permalink: "/projects/"
 title: "Projects"
+layout: page
 ---
+
+## Projects
