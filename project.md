@@ -22,7 +22,7 @@ layout: page
 * Created a Raffle system smart contract with a user-friendly interface using **Solidity** and **React** within a collaborative team of three.
 * Ensured absolute security for winner selection using **Verified Random Numbers** from **Chainlink** services.
 
-# Georgia Tech IT Board – Course Critique (2023 - 2024)
+# Georgia Tech IT Board – Course Critique (2023 - 2024) [Site](https://critique.gatech.edu)
 * Developed web service providing detailed analysis for various courses using **React** for frontend and **AWS** for backend data management.
 * Enhanced code clarity and reusability by implementing modularization and refining documentation within the existing codebase.
 * Improved data analysis accuracy through cleaning and processing **MySQL** datasets.
@@ -30,7 +30,7 @@ layout: page
 # Advanced Computer System Architecture Project (2025)
 * Developed a **cache simulator in C++** supporting multiple eviction policies for optimized performance analysis.
 
-# Android Application: College Scheduler (2024)
+# Android Application: College Scheduler (2024) [Demo Site](https://sites.google.com/view/cs2340demogroup68/scheduler-app)
 * Developed sophisticated backend model for efficient data management using advanced design patterns in **Java**.
 * Built an Android application for scheduling courses, assignments, and exams using **Android Studio** with **Java** and **XML**.
 
