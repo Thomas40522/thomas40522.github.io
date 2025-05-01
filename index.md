@@ -3,13 +3,7 @@ layout: default
 title: Home
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
-
-  <div style="flex: 1; min-width: 200px;">
-    <img src="/assets/images/headshot.jpg" alt="Headshot" style="max-width: 100%; border-radius: 12px;">
-  </div>
-
-  <div style="flex: 2; min-width: 300px;">
+![Headshot](/assets/images/headshot.jpg){: style="width: 200px; border-radius: 12px;" }
 
 ### Education
 
@@ -36,7 +30,3 @@ Computer Organization, Linear Algebra, Discrete Mathematics
 - **English:** Fluent  
 - **Mandarin:** Native  
 - **Cantonese:** Native
-
-  </div>
-
-</div>
