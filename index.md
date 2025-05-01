@@ -1,9 +1,11 @@
 ---
-layout: default
+permalink: "/home/"
+layout: page
 title: Home
 ---
 
 ![Headshot](/assets/images/headshot.jpg){: style="width: 200px; border-radius: 12px;" }
+[Download My CV (PDF)](/assets/cv.pdf){:target="_blank" download}
 
 ### Education
 
