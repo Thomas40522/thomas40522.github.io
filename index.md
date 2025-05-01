@@ -4,7 +4,7 @@ title: Home
 ---
 
 ![Headshot](/assets/images/headshot.jpg){: style="width: 200px; border-radius: 12px;"}
-<a href="{{ '/assets/Feiyang_Xie_CV.pdf' | relative_url }}" download>Download PDF</a>
+<a href="{{ '/assets/Feiyang_Xie_CV.pdf' | relative_url }}" download>Download CV (PDF)</a>
 
 ### Education
 
